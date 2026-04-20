@@ -1,16 +1,56 @@
-## Hi there 👋
+<!-- 상단 헤더 배너 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Hi,%20I'm%20KIHYUN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20RAG&descSize=18&descAlignY=58" />
+</p>
 
-<!--
-**wina0901/wina0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 타이핑 애니메이션 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+the+making;Computer+Vision+%7C+NLP+%7C+RAG+%7C+LLM;Building+End-to-End+AI+Systems;Always+Learning+%26+Shipping" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- AI 엔지니어를 목표로 실전형 프로젝트를 진행하고 있습니다.
+- Computer Vision, NLP, RAG, LLM 기반 서비스 개발 경험을 쌓고 있습니다.
+- 모델 학습부터 평가, 서빙, 배포까지 End-to-End 구현에 집중하고 있습니다.
+- 문제 해결 중심으로 성능 개선과 구조 설계를 중요하게 생각합니다.
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## Projects
+
+| 프로젝트 | 설명 | 기술 스택 |
+|---------|------|----------|
+| [Pill Detection System](https://github.com/wina0901) | 알약 이미지에서 객체 탐지 및 분류 (73종) | YOLO, PyTorch, FastAPI |
+| [RAG QA System](https://github.com/wina0901) | 문서 기반 질의응답 시스템 | LangChain, ChromaDB, OpenAI |
+| [BookGreom](https://github.com/wina0901) | 독서 습관 형성 AI 서비스 앱 | React Native, FastAPI |
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="mailto:wina0901@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- 하단 푸터 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer" />
+</p>
