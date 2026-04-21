@@ -36,8 +36,7 @@
 |---------|------|----------|
 | [AI_mission](https://github.com/wina0901/AI_Mission) | AI Engineer 부트캠프 각종 미션 | 각종 기본 기술 |
 | [Pill_detection_project](https://github.com/wina0901) | 알약 이미지에서 객체 탐지 및 분류 (73종) | YOLO, PyTorch, FastAPI |
-| [RAG QA System](https://github.com/wina0901) | 문서 기반 질의응답 시스템 | LangChain, ChromaDB, OpenAI |
-| [BookGreom](https://github.com/wina0901) | 독서 습관 형성 AI 서비스 앱 | React Native, FastAPI |
+| [MNIST realtime](https://github.com/wina0901/mnist_realtime) | 브라우저 캔버스에 그린 손글씨 숫자를 실시간 추론 (99% 정확도) | CNN, PyTorch, FastAPI |
 
 ---
 
