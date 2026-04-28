@@ -16,6 +16,11 @@
 - Computer Vision, NLP, RAG, LLM 기반 서비스 개발 경험을 쌓고 있습니다.
 - 모델 학습부터 평가, 서빙, 배포까지 End-to-End 구현에 집중하고 있습니다.
 - 문제 해결 중심으로 성능 개선과 구조 설계를 중요하게 생각합니다.
+<p align="left">
+  <a href="mailto:wina0901@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -40,17 +45,21 @@
 
 ---
 
-## Contact
+## Demo
 
-<p align="center">
-  <a href="mailto:wina0901@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <h3>Pill Detection Demo</h3>
+      <img src="https://raw.githubusercontent.com/wina0901/pill_detection_project/main/demo.gif" width="400"/>
+    </td>
+    <td align="center">
+      <h3>MNIST Realtime Demo</h3>
+      <img src="https://raw.githubusercontent.com/wina0901/mnist_realtime/main/demo.gif" width="400"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
-<!-- 하단 푸터 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer" />
-</p>
