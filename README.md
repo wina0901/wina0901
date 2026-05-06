@@ -1,6 +1,6 @@
 <!-- 상단 헤더 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=300&section=header&text=Thank%20you%20for%20visiting%20my%20github!&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20RAG&descSize=22&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=300&section=header&text=Thank%20you%20for%20visiting%20my%20github!&fontSize=45&fontColor=ffffff&fontAlignY=45" />
 </p>
 
 <!-- 타이핑 애니메이션 -->
