@@ -59,17 +59,20 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center">
       <h3>Pill Detection Demo</h3>
-      <img src="https://raw.githubusercontent.com/wina0901/pill_detection_project/main/demo.gif" width="280"/>
+      <img src="https://raw.githubusercontent.com/wina0901/pill_detection_project/main/demo.gif" width="350"/>
     </td>
-    <td align="center" width="33%">
+    <td align="center">
       <h3>MNIST Realtime Demo</h3>
-      <img src="https://raw.githubusercontent.com/wina0901/mnist_realtime/main/demo.gif" width="280"/>
+      <img src="https://raw.githubusercontent.com/wina0901/mnist_realtime/main/demo.gif" width="450"/>
     </td>
-    <td align="center" width="33%">
+  </tr>
+
+  <tr>
+    <td align="center" colspan="2">
       <h3>TONO</h3>
-      <img src="https://raw.githubusercontent.com/wina0901/tono_public/main/TONO.png" width="280"/>
+      <img src="https://raw.githubusercontent.com/wina0901/tono_public/main/TONO.png" width="800"/>
     </td>
   </tr>
 </table>
