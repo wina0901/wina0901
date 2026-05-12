@@ -10,40 +10,6 @@
 
 ---
 
-#  김기현
-
-
-- 2013 ~ 2016 목포해양대학교 항해학 전공
-- 2017 ~ 2021 외항상선 경력
-- 2022 ~ 2024 선박직 공무원 경력
-- 2024 ~ 2025 세계여행 with 게스트하우스 운영 & 프리다이빙 강사 취득
-- 2025.12.30 ~ 현재 AI engineer를 목표로 실전형 프로젝트 진행 중
-
----
-### 저는..
-- CV, NLP, RAG, LLM 기반 서비스 개발 경험을 쌓고 있습니다.
-- 모델 학습부터 평가, 서빙, 배포까지 End-to-End 구현에 집중하고 있습니다.
-- 문제 해결 중심으로 성능 개선과 구조 설계를 중요하게 생각합니다.
-  
-<p align="left">
-  <a href="mailto:wina0901@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
 ## Projects
 
 | 프로젝트 | 설명 | 기술 스택 |
@@ -77,6 +43,40 @@
   </tr>
 </table>
 
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+#  김기현
+
+
+- 2013 ~ 2016 목포해양대학교 항해학 전공
+- 2017 ~ 2021 외항상선 경력
+- 2022 ~ 2024 선박직 공무원 경력
+- 2024 ~ 2025 세계여행 with 게스트하우스 운영 & 프리다이빙 강사 취득
+- 2025.12.30 ~ 현재 AI engineer를 목표로 실전형 프로젝트 진행 중
+
+---
+### 저는..
+
+- CV, NLP, RAG, LLM 기반 서비스 개발 경험을 쌓고 있습니다.
+- 모델 학습부터 평가, 서빙, 배포까지 End-to-End 구현에 집중하고 있습니다.
+- 문제 해결 중심으로 성능 개선과 구조 설계를 중요하게 생각합니다.
+  
+<p align="left">
+  <a href="mailto:wina0901@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
