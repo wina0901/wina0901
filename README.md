@@ -5,7 +5,7 @@
 
 <!-- 타이핑 애니메이션 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+the+making;Computer+Vision+%7C+NLP+%7C+RAG+%7C+LLM;Building+End-to-End+AI+Systems;Always+Learning+%26+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+the+making;CV+%7C+NLP+%7C+RAG+%7C+LLM;Building+End-to-End+AI+Systems;Always+Learning+%26+Shipping" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 
 ---
 ### 저는..
-- Computer Vision, NLP, RAG, LLM 기반 서비스 개발 경험을 쌓고 있습니다.
+- CV, NLP, RAG, LLM 기반 서비스 개발 경험을 쌓고 있습니다.
 - 모델 학습부터 평가, 서빙, 배포까지 End-to-End 구현에 집중하고 있습니다.
 - 문제 해결 중심으로 성능 개선과 구조 설계를 중요하게 생각합니다.
   
