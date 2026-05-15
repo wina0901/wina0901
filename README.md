@@ -71,12 +71,12 @@
 - CV, NLP, RAG, LLM 기반 서비스 개발 경험을 쌓고 있습니다.
 - 모델 학습부터 평가, 서빙, 배포까지 End-to-End 구현에 집중하고 있습니다.
 - 문제 해결 중심으로 성능 개선과 구조 설계를 중요하게 생각합니다.
-  
+
+ EMAIL : wina0901@gmail.com
 <p align="left">
   <a href="mailto:wina0901@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-      EMAIL : wina0901@gmail.com
 </p>
 
 ---
