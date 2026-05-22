@@ -17,7 +17,7 @@
 | [AI_mission](https://github.com/wina0901/AI_Mission) | AI Engineer 부트캠프 각종 미션 | AI 관련 기본 기술 |
 | [Pill_detection_project](https://github.com/wina0901/pill_detection_project) | 알약 이미지에서 객체 탐지 및 분류 (73종) | YOLO, PyTorch, FastAPI |
 | [MNIST realtime](https://github.com/wina0901/mnist_realtime) | 브라우저 캔버스에 그린 손글씨 숫자를 실시간 추론 (99% 정확도) | CNN, PyTorch, FastAPI |
-| [TONO](https://github.com/wina0901/tono_public) | AI 온디바이스 사진 보정 앱(누적 다운 수 xx 회)(수정예정) | DeepLabV3, MODNet, TFLite, ONNX |
+| [TONO](https://github.com/wina0901/tono_public) | AI 온디바이스 사진 보정 앱(누적 다운 수 xx 회)(수정예정) | MODNet, TFLite, ONNX |
 
 ---
 
@@ -59,10 +59,9 @@
 #  김기현
 
 
-- 2013 ~ 2016 목포해양대학교 항해학 전공
+- 2013 ~ 2017 목포해양대학교 항해학 전공
 - 2017 ~ 2021 외항상선 경력
 - 2022 ~ 2024 선박직 공무원 경력
-- 2024 ~ 2025 세계여행 with 게스트하우스 운영 & 프리다이빙 강사 취득
 - 2025.12.30 ~ 현재 AI engineer를 목표로 실전형 프로젝트 진행 중
 
 ---
